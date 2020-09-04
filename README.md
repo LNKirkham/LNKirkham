@@ -1,5 +1,5 @@
 # Louise Kirkham #LNKirkham
-  Hi, I'm Louise and i'm a data scientist at Royal Mail (and previously a senior research scientist at Dstl). I'm also a swing dancer :dancer:, a motorcyclist :fire: and beginner quad skater :rocket:.
+  Hi, I'm Louise and I'm a data scientist at Royal Mail (and previously a senior research scientist at Dstl). I'm also a swing dancer :dancer:, a motorcyclist :fire: and beginner quad skater :rocket:.
   
 
 <!--
