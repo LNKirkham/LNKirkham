@@ -1,5 +1,7 @@
-# Louise Kirkham #LNKirkham
-  Hello! My name's Louise and I'm an AI Engineer - that's an Engineer 👷‍♀️ that designs and develops AI systems, not an AI 🤖 that engineers!
+# Louise Kirkham
+### AI Engineer | MLOps Practitioner | Solution Architect (Responsible AI by design)
+
+Hello! My name's Louise and I'm an AI Engineer - that's an Engineer that designs and develops AI systems 👷‍♀️, not an AI that engineers 🤖!
   
 I currently work for [Datasparq](https://www.datasparq.ai/)  and you can find my other githib profile here: [https://github.com/lnkirkham-datasparq](https://github.com/lnkirkham-datasparq) 
 
