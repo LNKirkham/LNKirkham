@@ -7,7 +7,9 @@ I currently work for [Datasparq](https://www.datasparq.ai/)  and you can find my
 
 ## Get in touch
 Website: [https://lnkirkham.github.io/](https://lnkirkham.github.io/)
+
 Linkedin: [https://www.linkedin.com/in/louise-kirkham/](https://www.linkedin.com/in/louise-kirkham)
+
 Instagram: [https://www.instagram.com/loulouohmygosh/](https://www.instagram.com/loulouohmygosh/)
 
 
